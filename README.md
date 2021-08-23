@@ -5,3 +5,5 @@ thats it thank you.
 
 also feel free to report a bug in issue tab and i will fix the as fast as i can 👀
 out and peace.
+
+![Preview](https://cdn.discordapp.com/attachments/877056631723139102/879228523481534514/unknown.png)
